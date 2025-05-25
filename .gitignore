@@ -1,0 +1,17 @@
+# === Build directory ===
+/build/
+
+
+
+
+
+# === Gradle Wrapper files ===
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# === Java class files ===
+*.class
+
+# === Environment / secrets ===
+.env
+
